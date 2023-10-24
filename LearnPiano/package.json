@@ -1,0 +1,28 @@
+{
+  "name": "learnpiano",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "clean-webpack-plugin": "4.0.0",
+    "css-loader": "6.8.1",
+    "html-webpack-plugin": "5.5.3",
+    "mini-css-extract-plugin": "2.7.6",
+    "ts-loader": "9.5.0",
+    "typescript": "5.2.2",
+    "webpack": "5.89.0",
+    "webpack-cli": "5.1.4"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^7.0.12",
+    "@types/node": "^20.8.7",
+    "pixi.js": "^7.3.1",
+    "tone": "^14.7.77"
+  }
+}

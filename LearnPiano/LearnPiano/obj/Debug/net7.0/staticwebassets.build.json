@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QmlVmiBKZsvWr93igWe5IzlIWrBQqc629I2bH6dAG+4=",
+  "Hash": "Lk8XMEXsSkVhF7Wyb22WiPqHVus9HTrK0Qqy+ojIH4Y=",
   "Source": "LearnPiano",
   "BasePath": "_content/LearnPiano",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\sprites\\animatedSprites\\key-sprite-add-on-mouse-press.png"
     },
     {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\index.b5caa5c31f668031ee6a.css",
+      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\index.da076316223243561b63.css",
       "SourceId": "LearnPiano",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
       "BasePath": "_content/LearnPiano",
-      "RelativePath": "css/index.b5caa5c31f668031ee6a.css",
+      "RelativePath": "css/index.da076316223243561b63.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\index.b5caa5c31f668031ee6a.css"
+      "OriginalItemSpec": "wwwroot\\css\\index.da076316223243561b63.css"
     },
     {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.267153caa2f17f867917.css",
+      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.28c89855c2cfda5e84e7.css",
       "SourceId": "LearnPiano",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
       "BasePath": "_content/LearnPiano",
-      "RelativePath": "css/pianoGames.267153caa2f17f867917.css",
+      "RelativePath": "css/pianoGames.28c89855c2cfda5e84e7.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\pianoGames.267153caa2f17f867917.css"
+      "OriginalItemSpec": "wwwroot\\css\\pianoGames.28c89855c2cfda5e84e7.css"
     },
     {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.35f54fccb1a0a39139b5.css",
+      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\index.da076316223243561b63.js",
       "SourceId": "LearnPiano",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
       "BasePath": "_content/LearnPiano",
-      "RelativePath": "css/pianoGames.35f54fccb1a0a39139b5.css",
+      "RelativePath": "index.da076316223243561b63.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,41 +133,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\pianoGames.35f54fccb1a0a39139b5.css"
-    },
-    {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.677b9a41d6e8ab5802f6.css",
-      "SourceId": "LearnPiano",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
-      "BasePath": "_content/LearnPiano",
-      "RelativePath": "css/pianoGames.677b9a41d6e8ab5802f6.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\pianoGames.677b9a41d6e8ab5802f6.css"
-    },
-    {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\index.b5caa5c31f668031ee6a.js",
-      "SourceId": "LearnPiano",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
-      "BasePath": "_content/LearnPiano",
-      "RelativePath": "index.b5caa5c31f668031ee6a.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.b5caa5c31f668031ee6a.js"
+      "OriginalItemSpec": "wwwroot\\index.da076316223243561b63.js"
     },
     {
       "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\index.html",
@@ -187,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.267153caa2f17f867917.js",
+      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.28c89855c2cfda5e84e7.js",
       "SourceId": "LearnPiano",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
       "BasePath": "_content/LearnPiano",
-      "RelativePath": "pianoGames.267153caa2f17f867917.js",
+      "RelativePath": "pianoGames.28c89855c2cfda5e84e7.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,41 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pianoGames.267153caa2f17f867917.js"
-    },
-    {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.35f54fccb1a0a39139b5.js",
-      "SourceId": "LearnPiano",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
-      "BasePath": "_content/LearnPiano",
-      "RelativePath": "pianoGames.35f54fccb1a0a39139b5.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pianoGames.35f54fccb1a0a39139b5.js"
-    },
-    {
-      "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.677b9a41d6e8ab5802f6.js",
-      "SourceId": "LearnPiano",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\",
-      "BasePath": "_content/LearnPiano",
-      "RelativePath": "pianoGames.677b9a41d6e8ab5802f6.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pianoGames.677b9a41d6e8ab5802f6.js"
+      "OriginalItemSpec": "wwwroot\\pianoGames.28c89855c2cfda5e84e7.js"
     },
     {
       "Identity": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.html",

@@ -3,7 +3,7 @@ export class Key {
     constructor(index) {
         this._index = index;
         this._keyElement = Layout.initializeKeyElement(index);
-        this._keyElement.interactive = true;
+        this._keyElement.eventMode = 'dynamic';
         this._note = Layout.piano.keyChart[index];
     }
     setElementPosition(x, y) {

@@ -1,12 +1,15 @@
 import * as PIXI from 'pixi.js';
 import { Layout } from '../../../../layout';
+import { SelectOptions } from '../../../../enums';
 export class SpriteHolder {
     constructor(index) {
         this._isHolding = false;
+        this._holdingSpriteIndex = -1;
+        this._selectedOption = SelectOptions.NOT_SELECTED;
         this._index = index;
         this._container = new PIXI.Container();
+        this._container.interactive = true;
         const graphic = new PIXI.Graphics();
-        //graphic.lineStyle(Layout.spriteHolder.lineStrength, Layout.shuffledSpritesStorageWindow.circleColor);
         graphic.beginFill(Layout.spriteHolder.circleColor);
         const newSpriteHolder = graphic.drawCircle(0, 0, Layout.spriteHolder.radius);
         graphic.endFill();
@@ -14,6 +17,12 @@ export class SpriteHolder {
         newSpriteHolder.pivot.y -= Layout.spriteHolder.radius;
         newSpriteHolder.alpha = 0.1;
         this._container.addChild(newSpriteHolder);
+    }
+    get selectOptions() {
+        return this._selectedOption;
+    }
+    set selectOptions(value) {
+        this._selectedOption = value;
     }
     get index() {
         return this._index;
@@ -27,6 +36,9 @@ export class SpriteHolder {
     setSprite(index) {
         this._holdingSpriteIndex = index;
         this._isHolding = true;
+        if (index == -1) {
+            this._isHolding = false;
+        }
     }
     get holdingSpriteIndex() {
         return this._holdingSpriteIndex;

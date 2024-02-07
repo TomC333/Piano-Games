@@ -3,13 +3,18 @@
 <head>
     <meta charset="utf-8" />
     <title>ASP.NET Core SignalR with TypeScript and Webpack</title>
-<script defer src="/index.b5caa5c31f668031ee6a.js"></script><link href="/css/index.b5caa5c31f668031ee6a.css" rel="stylesheet"></head>
+<script defer src="/index.da076316223243561b63.js"></script><link href="/css/index.da076316223243561b63.css" rel="stylesheet"></head>
 <body>
-    <div id="divMessages" class="messages"></div>
-    <div class="input-zone">
-        <label id="lblMessage" for="tbMessage">Message:</label>
-        <input id="tbMessage" class="input-zone-input" type="text" />
-        <button id="btnSend">Send</button>
+    <div class="input-and-messages-container">
+        <div id="messages-container"></div>
+        <div class="input-zone">
+            <input id="message-input" class="input-zone-input" type="text" maxlength="200" placeholder="Enter your message"/>
+            <button id="send-message-button">Send</button>
+        </div>
+    </div>
+
+    <div class="game-buttons-container">
+          <button id="piano-shuffler-game-button" class="game-mode-button">Piano Shuffler</button>  
     </div>
 </body>
 </html>

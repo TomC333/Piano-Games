@@ -18,13 +18,23 @@ export class Layout {
         const height = Layout.canvas.height * 0.95;
         return {
             pianoWidthPercentager: 0.4,
+            gameButtonsWidthPercentage: 0.3,
             width: Layout.canvas.freeSpaceWidth,
             height: height,
             y: Layout.canvas.height - height,
             x: Layout.canvas.elementsMargin,
         };
     }
-    // Piano With Sprites
+    static get gameButtons() {
+        const height = Layout.pianoWindow.height;
+        const width = Layout.pianoWindow.width * Layout.pianoWindow.gameButtonsWidthPercentage;
+        return {
+            width: width,
+            height: height,
+            x: Layout.pianoWindow.width + Layout.pianoWindow.x - width,
+            y: Layout.pianoWindow.y,
+        };
+    }
     static get piano() {
         const width = Layout.canvas.freeSpaceWidth * Layout.pianoWindow.pianoWidthPercentager;
         const height = Layout.pianoWindow.height;
@@ -36,7 +46,7 @@ export class Layout {
         const keysY = height - Layout.whiteKey.height - bottomMargin;
         const keyAndSpriteMarginY = 30;
         const spriteY = keysY - keyAndSpriteMarginY - Layout.sprite.width;
-        const spriteAndHolderMaring = 100;
+        const spriteAndHolderMaring = 50;
         const spriteHolderY = spriteY - spriteAndHolderMaring - Layout.spriteHolder.radius;
         return {
             width: width,
@@ -89,6 +99,10 @@ export class Layout {
     }
 }
 Layout.pianoKeysBottomMargin = 30;
+Layout.button = {
+    width: 100,
+    height: 100,
+};
 Layout.keySpriteOptions = {
     correctSpriteColor: 0x03fc3d,
     incorrectSpriteColor: 0xfc0303,
@@ -103,7 +117,7 @@ Layout.sprite = {
     height: Layout.whiteKey.width * 0.5,
     correctSpriteColor: 0x03fc3d,
     incorrectSpriteColor: 0xfc0303,
-    gameInProgressSpriteColor: 0xfc0303,
+    gameInProgressSpriteColor: 0xfffb00,
     spriteClickColor: 0x0091ff,
     defaultColor: 0xffffff,
     emptySprite: 0x000000,

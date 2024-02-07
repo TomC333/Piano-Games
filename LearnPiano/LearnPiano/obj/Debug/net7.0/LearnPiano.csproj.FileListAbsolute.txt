@@ -2,6 +2,10 @@ C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\appsettings.json
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\package-lock.json
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\package.json
+C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\src\assets\sprites\animatedSprites\key-sprite-add-on-mouse-press.json
+C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\src\assets\sprites\animatedSprites\key-sprite.json
+C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\tsconfig.json
+C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.staticwebassets.runtime.json
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.exe
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.deps.json
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.runtimeconfig.json
@@ -33,7 +37,3 @@ C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.pdb
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.genruntimeconfig.cache
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\ref\LearnPiano.dll
-C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\tsconfig.json
-C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.staticwebassets.runtime.json
-C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\src\assets\sprites\animatedSprites\key-sprite-add-on-mouse-press.json
-C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\src\assets\sprites\animatedSprites\key-sprite.json

@@ -1,23 +1,25 @@
 import * as PIXI from 'pixi.js';
 import { Layout } from '../../../../layout';
+import { SelectOptions } from '../../../../enums';
 
 export class SpriteHolder {
 
     private _index: number;
     private _isHolding: boolean = false;
-    private _holdingSpriteIndex: number;
+    private _holdingSpriteIndex: number = -1;
     private _container: PIXI.Container;
     private _possibleSpriteX: number;
     private _possibleSpriteY: number;
+    private _selectedOption: SelectOptions = SelectOptions.NOT_SELECTED;
 
     constructor(index: number) {
 
         this._index = index;
         this._container = new PIXI.Container();
+        this._container.interactive = true;
 
         const graphic = new PIXI.Graphics();
 
-        //graphic.lineStyle(Layout.spriteHolder.lineStrength, Layout.shuffledSpritesStorageWindow.circleColor);
         graphic.beginFill(Layout.spriteHolder.circleColor);
         const newSpriteHolder = graphic.drawCircle(0, 0, Layout.spriteHolder.radius);
         graphic.endFill();
@@ -27,6 +29,15 @@ export class SpriteHolder {
 
         newSpriteHolder.alpha = 0.1;
         this._container.addChild(newSpriteHolder);
+    }
+
+
+    get selectOptions(): SelectOptions {
+        return this._selectedOption;
+    }
+
+    set selectOptions(value: SelectOptions) {
+        this._selectedOption = value;
     }
 
     get index(): number {
@@ -42,8 +53,13 @@ export class SpriteHolder {
     }
 
     setSprite(index: number) {
+
         this._holdingSpriteIndex = index;
         this._isHolding = true;
+
+        if (index == -1) {
+            this._isHolding = false;            
+        }
     }
 
     get holdingSpriteIndex(): number {

@@ -1,6 +1,9 @@
 import * as PIXI from 'pixi.js';
 import { SpriteLoader } from '../../../assetLoaders/spriteLoader';
 import { Layout } from '../../../../layout';
+import { gsap } from "gsap";
+import { SelectOptions } from '../../../../enums';
+import { Glow } from '../../../helpers/glow';
 
 export class KeySprite {
 
@@ -33,7 +36,7 @@ export class KeySprite {
 
         this._container.width = Layout.sprite.width;
         this._container.height = Layout.sprite.height;
-        this._container.interactive = true;
+        //this._container.eventMode = 'dynamic';
     }
 
     setPosition(x: number, y: number) {
@@ -42,9 +45,17 @@ export class KeySprite {
         this._container.y = y;
     }
 
-    goToPosition(x: number, y: number) {
+    goToPosition(x: number, y: number, isAnimated: boolean) {
 
-        this.setPosition(x, y);
+        if (isAnimated) {
+
+            gsap.to(this._container, {
+                x: x, y: y, duration: 1, ease: "power2.inOut"
+            });
+
+        } else {
+            this.setPosition(x, y);
+        }
     }
 
     get index(): number {
@@ -61,6 +72,14 @@ export class KeySprite {
 
     get note(): string {
         return this._note;
+    }
+
+    get isDraggable(): boolean {
+        return this._isDraggable;
+    }
+
+    set isDraggable(value: boolean) {
+        this._isDraggable = value;
     }
 
     getElement() {
@@ -80,13 +99,5 @@ export class KeySprite {
     removePressAnimation() {
 
         this._container.removeChild(this._spritaPressAnimation);
-    }
-
-    get isDraggable(): boolean {
-        return this._isDraggable;
-    }
-
-    set isDraggable(value: boolean) {
-        this._isDraggable = value;
     }
 }

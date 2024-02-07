@@ -13,3 +13,12 @@ export var SpriteIndex;
     SpriteIndex[SpriteIndex["NOT_SELECTED"] = 4] = "NOT_SELECTED";
     SpriteIndex[SpriteIndex["SELECTED"] = 5] = "SELECTED";
 })(SpriteIndex || (SpriteIndex = {}));
+export var SelectOptions;
+(function (SelectOptions) {
+    SelectOptions[SelectOptions["NOT_SELECTED"] = 1] = "NOT_SELECTED";
+    SelectOptions[SelectOptions["SELECTED"] = 2] = "SELECTED";
+})(SelectOptions || (SelectOptions = {}));
+export var GameModes;
+(function (GameModes) {
+    GameModes[GameModes["PIANO_SHUFFLER"] = 1] = "PIANO_SHUFFLER";
+})(GameModes || (GameModes = {}));

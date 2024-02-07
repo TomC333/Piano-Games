@@ -1,37 +1,57 @@
 import * as signalR from "@microsoft/signalr";
 import "../css/index.css";
+import { GameModes } from "../enums";
 
-const divMessages: HTMLDivElement = document.querySelector("#divMessages");
-const tbMessage: HTMLInputElement = document.querySelector("#tbMessage");
-const btnSend: HTMLButtonElement = document.querySelector("#btnSend");
+const messagesContainer: HTMLDivElement = document.querySelector("#messages-container");
+const messageInput: HTMLInputElement = document.querySelector("#message-input");
+const sendButton: HTMLButtonElement = document.querySelector("#send-message-button");
+const pianoShufflerGameButton: HTMLButtonElement = document.querySelector("#piano-shuffler-game-button");
 const username = new Date().getTime();
 
 const connection = new signalR.HubConnectionBuilder()
-    .withUrl("/menu")
+    .withUrl("/lobby")
     .build();
 
-connection.on("messageReceived", (username: string, message: string) => {
-    const m = document.createElement("div");
+connection.on("ReceivedMessage", (username: string, message: string) => {
 
-    m.innerHTML = `<div class="message-author">${username}</div><div>${message}</div>`;
+    const newMessage = document.createElement("div");
 
-    divMessages.appendChild(m);
-    divMessages.scrollTop = divMessages.scrollHeight;
+    newMessage.innerHTML = `<div class="message-author">${username}</div><div>${message}</div>`;
+
+    messagesContainer.appendChild(newMessage);
+    messagesContainer.scrollTop = messagesContainer.scrollHeight;
+});
+
+connection.on("PlayGame", (gameMode: number, gameID: string) => {
+
+    let newLocation = ``;
+
+    switch (gameMode) {
+        case GameModes.PIANO_SHUFFLER:
+            newLocation += `/pianoGames.html`;
+            break;
+    }
+
+    newLocation += `?game_id=${gameID}`;
+
+    window.location.href = newLocation;
 });
 
 connection.start().catch((err) => document.write(err));
 
-tbMessage.addEventListener("keyup", (e: KeyboardEvent) => {
+messageInput.addEventListener("keyup", (e: KeyboardEvent) => {
     if (e.key === "Enter") {
-        send();
+        sendMessage();
     }
 });
 
-btnSend.addEventListener("click", send);
+sendButton.addEventListener("click", sendMessage);
 
-function send() {
-    connection.send("newMessage", username, tbMessage.value)
-        .then(() => (tbMessage.value = ""));
-}
+pianoShufflerGameButton.addEventListener("click", () => {
+    connection.send("RequestPlayGame", GameModes.PIANO_SHUFFLER);
+});
 
-window.location.href = `/pianoGames.html`;
+function sendMessage() {
+    connection.send("SendMessage", username, messageInput.value)
+        .then(() => (messageInput.value = ""));
+};

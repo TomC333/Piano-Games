@@ -25,7 +25,9 @@
   },
   "dependencies": {
     "@microsoft/signalr": "^7.0.12",
+    "@pixi/filter-glow": "^5.2.1",
     "@types/node": "^20.8.7",
+    "gsap": "^3.12.2",
     "pixi.js": "^7.3.1",
     "tone": "^14.7.77"
   }

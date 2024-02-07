@@ -1,3 +1,4 @@
+using LearnPiano.Hubs.GameManager;
 using LearnPiano.Hubs.Menu;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,5 +9,6 @@ var app = builder.Build();
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
-app.MapHub<MenuHub>("/menu");
+app.MapHub<LobbyHub>("/lobby");
+app.MapHub<ShufflerGameHub>("/shufflerGame");
 app.Run();

@@ -1,0 +1,6 @@
+wwwroot\css\pianoGames.82c27d0135d1550f860c.css
+wwwroot\css\pianoGames.c3aa2f415756873240a1.css
+wwwroot\index.html
+wwwroot\pianoGames.82c27d0135d1550f860c.js
+wwwroot\pianoGames.c3aa2f415756873240a1.js
+wwwroot\pianoGames.html

@@ -1,0 +1,4 @@
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\wwwroot\css\pianoGames.82c27d0135d1550f860c.css
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\wwwroot\css\pianoGames.c3aa2f415756873240a1.css
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\wwwroot\pianoGames.82c27d0135d1550f860c.js
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\wwwroot\pianoGames.c3aa2f415756873240a1.js

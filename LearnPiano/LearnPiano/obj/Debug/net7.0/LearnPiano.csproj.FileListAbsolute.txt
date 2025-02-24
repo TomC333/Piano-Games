@@ -37,3 +37,47 @@ C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.pdb
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.genruntimeconfig.cache
 C:\MyFiles\Next Level Games\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\ref\LearnPiano.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\appsettings.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\package-lock.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\package.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\src\assets\sprites\animatedSprites\key-sprite-add-on-mouse-press.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\src\assets\sprites\animatedSprites\key-sprite.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\tsconfig.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.staticwebassets.runtime.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.staticwebassets.endpoints.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.exe
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.deps.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.runtimeconfig.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\LearnPiano.pdb
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.csproj.AssemblyReference.cache
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.AssemblyInfoInputs.cache
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.AssemblyInfo.cs
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.csproj.CoreCompileInputs.cache
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.sourcelink.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\scopedcss\bundle\LearnPiano.styles.css
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets\msbuild.LearnPiano.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets\msbuild.LearnPiano.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets\msbuild.build.LearnPiano.props
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LearnPiano.props
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LearnPiano.props
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.csproj.Up2Date
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\refint\LearnPiano.dll
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.pdb
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\LearnPiano.genruntimeconfig.cache
+C:\Users\ddadi\Desktop\git\Piano-Shuffler-Game\LearnPiano\LearnPiano\obj\Debug\net7.0\ref\LearnPiano.dll

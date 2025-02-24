@@ -1,44 +1,32 @@
 {
   "Files": [
     {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\assets\\sprites\\animatedSprites\\key-sprite-add-on-mouse-press.json",
-      "PackagePath": "staticwebassets\\assets\\sprites\\animatedSprites\\key-sprite-add-on-mouse-press.json"
+      "Id": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.82c27d0135d1550f860c.css",
+      "PackagePath": "staticwebassets\\css\\pianoGames.82c27d0135d1550f860c.css"
     },
     {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\assets\\sprites\\animatedSprites\\key-sprite-add-on-mouse-press.png",
-      "PackagePath": "staticwebassets\\assets\\sprites\\animatedSprites\\key-sprite-add-on-mouse-press.png"
+      "Id": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.c3aa2f415756873240a1.css",
+      "PackagePath": "staticwebassets\\css\\pianoGames.c3aa2f415756873240a1.css"
     },
     {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\assets\\sprites\\animatedSprites\\key-sprite.json",
-      "PackagePath": "staticwebassets\\assets\\sprites\\animatedSprites\\key-sprite.json"
-    },
-    {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\assets\\sprites\\animatedSprites\\key-sprite.png",
-      "PackagePath": "staticwebassets\\assets\\sprites\\animatedSprites\\key-sprite.png"
-    },
-    {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\index.da076316223243561b63.css",
-      "PackagePath": "staticwebassets\\css\\index.da076316223243561b63.css"
-    },
-    {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\css\\pianoGames.28c89855c2cfda5e84e7.css",
-      "PackagePath": "staticwebassets\\css\\pianoGames.28c89855c2cfda5e84e7.css"
-    },
-    {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\index.da076316223243561b63.js",
-      "PackagePath": "staticwebassets\\index.da076316223243561b63.js"
-    },
-    {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\index.html",
+      "Id": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.28c89855c2cfda5e84e7.js",
-      "PackagePath": "staticwebassets\\pianoGames.28c89855c2cfda5e84e7.js"
+      "Id": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.82c27d0135d1550f860c.js",
+      "PackagePath": "staticwebassets\\pianoGames.82c27d0135d1550f860c.js"
     },
     {
-      "Id": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.html",
+      "Id": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.c3aa2f415756873240a1.js",
+      "PackagePath": "staticwebassets\\pianoGames.c3aa2f415756873240a1.js"
+    },
+    {
+      "Id": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\wwwroot\\pianoGames.html",
       "PackagePath": "staticwebassets\\pianoGames.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LearnPiano.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.LearnPiano.Microsoft.AspNetCore.StaticWebAssets.props",

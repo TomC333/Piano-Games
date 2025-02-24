@@ -100,8 +100,8 @@ export class Layout {
 }
 Layout.pianoKeysBottomMargin = 30;
 Layout.button = {
-    width: 100,
-    height: 100,
+    width: 80,
+    height: 40,
 };
 Layout.keySpriteOptions = {
     correctSpriteColor: 0x03fc3d,

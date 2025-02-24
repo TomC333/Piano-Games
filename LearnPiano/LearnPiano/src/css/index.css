@@ -22,6 +22,7 @@
 
 html,
 body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     background: #4649b0;
@@ -71,7 +72,6 @@ body{
 }
 
 input {
-    font-family: inherit;
     width: 100%;
     border: 0;
     border-bottom: 2px solid white;
@@ -105,8 +105,8 @@ input::placeholder {
     width: 50%;
     border: 2px solid white;
     border-radius: 10px;
-    min-height: 91.7vh;
-    max-height: 91.7vh;
+    min-height: 85vh;
+    max-height: 85vh;
     overflow-y: auto;
     margin: 10px;
     padding: 10px;

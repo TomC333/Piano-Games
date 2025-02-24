@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\layout.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\layout.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\ts\\pianogame\\gamebuttons\\button.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\ts\\pianogame\\gamebuttons\\button.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\ts\\pianogame\\gamebuttons\\gamebuttons.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\ts\\pianogame\\gamebuttons\\gamebuttons.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\ts\\pagecontrollers\\pianogames.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\ts\\pagecontrollers\\pianogames.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\ts\\pagecontrollers\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\ts\\pagecontrollers\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\ts\\assetloaders\\loader.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\ts\\assetloaders\\loader.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\css\\pianogames.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\css\\pianogames.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|c:\\users\\ddadi\\desktop\\git\\piano-shuffler-game\\learnpiano\\learnpiano\\src\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{589BAA7A-5C63-4AF4-B460-0CFB138A520F}|LearnPiano\\LearnPiano.csproj|solutionrelative:learnpiano\\src\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 759,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "layout.ts",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\layout.ts",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\layout.ts",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\layout.ts",
+              "RelativeToolTip": "LearnPiano\\src\\layout.ts",
+              "ViewState": "AgIAACsAAAAAAAAAAAAvwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T22:21:07.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gameButtons.ts",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pianoGame\\gameButtons\\gameButtons.ts",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\ts\\pianoGame\\gameButtons\\gameButtons.ts",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pianoGame\\gameButtons\\gameButtons.ts",
+              "RelativeToolTip": "LearnPiano\\src\\ts\\pianoGame\\gameButtons\\gameButtons.ts",
+              "ViewState": "AgIAACYAAAAAAAAAAAAvwC4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T22:19:26.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pianoGames.ts",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pageControllers\\pianoGames.ts",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\ts\\pageControllers\\pianoGames.ts",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pageControllers\\pianoGames.ts",
+              "RelativeToolTip": "LearnPiano\\src\\ts\\pageControllers\\pianoGames.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T22:18:45.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "button.ts",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pianoGame\\gameButtons\\button.ts",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\ts\\pianoGame\\gameButtons\\button.ts",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pianoGame\\gameButtons\\button.ts",
+              "RelativeToolTip": "LearnPiano\\src\\ts\\pianoGame\\gameButtons\\button.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA+wBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T22:17:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "webpack.config.js",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\webpack.config.js",
+              "RelativeDocumentMoniker": "LearnPiano\\webpack.config.js",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\webpack.config.js",
+              "RelativeToolTip": "LearnPiano\\webpack.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-24T22:14:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\tsconfig.json",
+              "RelativeDocumentMoniker": "LearnPiano\\tsconfig.json",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\tsconfig.json",
+              "RelativeToolTip": "LearnPiano\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T22:14:51.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\Program.cs",
+              "RelativeDocumentMoniker": "LearnPiano\\Program.cs",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\Program.cs",
+              "RelativeToolTip": "LearnPiano\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:14:46.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnPiano\\appsettings.json",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\appsettings.json",
+              "RelativeToolTip": "LearnPiano\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T22:09:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pageControllers\\index.ts",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\ts\\pageControllers\\index.ts",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\pageControllers\\index.ts",
+              "RelativeToolTip": "LearnPiano\\src\\ts\\pageControllers\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T22:13:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\package.json",
+              "RelativeDocumentMoniker": "LearnPiano\\package.json",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\package.json",
+              "RelativeToolTip": "LearnPiano\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T22:09:39.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loader.ts",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\assetLoaders\\loader.ts",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\ts\\assetLoaders\\loader.ts",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\ts\\assetLoaders\\loader.ts",
+              "RelativeToolTip": "LearnPiano\\src\\ts\\assetLoaders\\loader.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-24T21:58:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pianoGames.css",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\css\\pianoGames.css",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\css\\pianoGames.css",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\css\\pianoGames.css",
+              "RelativeToolTip": "LearnPiano\\src\\css\\pianoGames.css",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T21:57:28.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\css\\index.css",
+              "RelativeDocumentMoniker": "LearnPiano\\src\\css\\index.css",
+              "ToolTip": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\src\\css\\index.css",
+              "RelativeToolTip": "LearnPiano\\src\\css\\index.css",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T21:48:43.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 884,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -53,8 +53,8 @@ export class Layout {
     }
 
     static button = {
-        width: 100,
-        height: 100,
+        width: 80,
+        height: 40,
     }
 
     static get piano() {

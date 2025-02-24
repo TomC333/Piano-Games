@@ -28,7 +28,7 @@ export class GameButtons {
             // handle piano :D 
             for (let i = 0; i < piano.length; i++) {
                 if (piano[i] == -1) {
-                    console.log("sheavse jer dzmaa igini da mere gamova pasuxi sm");
+                    console.log("Move all sprites firstly and then press finish button");
                     return;
                 }
             }

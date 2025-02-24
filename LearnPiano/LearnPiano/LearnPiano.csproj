@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="src\pageControlersTs\" />
+    <Folder Include="src\ts\pageControllers\" />
     <Folder Include="src\ts\assetLoaders\" />
     <Folder Include="src\ts\pianoGame\gameButtons\" />
   </ItemGroup>

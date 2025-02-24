@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kp/kpRslbWk0gT69wAhFXmqf8K0Rk0/mH8lzDffeG4/t27eURtjzQM5N9cVUqSXV6GjLgk2bCeZphHEYG24gHw==",
+  "dgSpecHash": "YknHzv2gFa4=",
   "success": true,
-  "projectFilePath": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj",
+  "projectFilePath": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ddadi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\ddadi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,9 +1,9 @@
 import * as PIXI from 'pixi.js';
 import { Layout } from '../../../layout';
 import { KeyColors, SelectOptions, KeyZIndexes, SpriteIndex } from '../../../enums';
-import { Key } from './key&Sprite&Holder/key';
-import { KeySprite } from './key&Sprite&Holder/keySprite';
-import { SpriteHolder } from './key&Sprite&Holder/spriteHolder';
+import { Key } from './keyComponents/key';
+import { KeySprite } from './keyComponents/keySprite';
+import { SpriteHolder } from './keyComponents/spriteHolder';
 import { SynthSingleton } from './synthSingleton';
 import { Glow } from '../../helpers/glow';
 export class Piano {

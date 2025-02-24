@@ -16,8 +16,8 @@ export class Button {
         this._container.addChild(t);
         this._container.addChild(pixiText);
         this._container.eventMode = 'dynamic';
-        pixiText.x = 0;
-        pixiText.y = 0;
+        pixiText.x = (Layout.button.width - pixiText.width) / 2;
+        pixiText.y = (Layout.button.height - pixiText.height) / 2;
     }
     setPosition(x, y) {
         this._container.x = x;

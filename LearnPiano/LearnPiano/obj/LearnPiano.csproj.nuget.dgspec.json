@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj": {}
+    "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj": {}
   },
   "projects": {
-    "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj": {
+    "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj",
+        "projectUniqueName": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj",
         "projectName": "LearnPiano",
-        "projectPath": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj",
+        "projectPath": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\LearnPiano.csproj",
         "packagesPath": "C:\\Users\\ddadi\\.nuget\\packages\\",
-        "outputPath": "C:\\MyFiles\\Next Level Games\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\obj\\",
+        "outputPath": "C:\\Users\\ddadi\\Desktop\\git\\Piano-Shuffler-Game\\LearnPiano\\LearnPiano\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\ddadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -68,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

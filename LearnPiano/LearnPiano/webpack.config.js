@@ -6,8 +6,8 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 module.exports = {
     entry: {
-        index: './src/pageControlersTs/index.ts',
-        pianoGames: './src/pageControlersTs/pianoGames.ts',
+        index: './src/ts/pageControllers/index.ts',
+        pianoGames: './src/ts/pageControllers/pianoGames.ts',
     },
     output: {
         path: path.resolve(__dirname, "wwwroot"),
@@ -38,12 +38,12 @@ module.exports = {
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             filename: "index.html",
-            template: "./src/htmlPages/index.html",
+            template: "./src/html/index.html",
             chunks: ['index'],
         }),
         new HtmlWebpackPlugin({
             filename: "pianoGames.html",
-            template: "./src/htmlPages/pianoGames.html",
+            template: "./src/html/pianoGames.html",
             chunks: ['pianoGames']
         }),
         new MiniCssExtractPlugin({

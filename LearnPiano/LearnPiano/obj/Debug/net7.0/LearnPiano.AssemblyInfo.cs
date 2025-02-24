@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnPiano")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc03e9741fbc56da21e61b18edfb8bdcb768636d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnPiano")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnPiano")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

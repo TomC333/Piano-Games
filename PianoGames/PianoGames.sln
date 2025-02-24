@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnPiano", "LearnPiano\LearnPiano.csproj", "{589BAA7A-5C63-4AF4-B460-0CFB138A520F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PianoGames", "PianoGames\PianoGames.csproj", "{589BAA7A-5C63-4AF4-B460-0CFB138A520F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

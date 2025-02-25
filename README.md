@@ -50,4 +50,4 @@ before launching it from Visual Studio to ensure all necessary files are generat
 
 ## Demo ▶️
 
-![Piano Shuffler](https://github.com/TomC333/Piano-Games/blob/main/demo/demo.mov)
+![Piano Shuffler](https://github.com/TomC333/Piano-Games/blob/main/demo/demo.gif)
